@@ -1,3 +1,21 @@
-video{
-    place-items: right;
+aside video{
+    height: 400px;
+    width: 600px;
+}
+nav{
+    text-align: right;
+    border-style: groove;
+    background-color: black;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+
+}
+.headline{
+    text-decoration-line: underline;
+}
+h4 mark{
+    background-color: black;
+    color:white;
 }
